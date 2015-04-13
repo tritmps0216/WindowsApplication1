@@ -1,0 +1,16 @@
+D:\sql assignment\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\sql assignment\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\sql assignment\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\sql assignment\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\sql assignment\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\sql assignment\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\sql assignment\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\sql assignment\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\sql assignment\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\sql assignment\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LOGIN.resources
+D:\sql assignment\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.START.resources
+D:\sql assignment\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAIN.resources
+D:\sql assignment\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\sql assignment\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.KHACHHANG.resources
+D:\sql assignment\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.NHANVIEN.resources
+D:\sql assignment\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SANPHAM.resources
